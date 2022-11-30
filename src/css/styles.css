@@ -18,3 +18,23 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.country__title {
+  font-weight: 400;
+
+}
+img,
+svg {
+display: block;
+}
+.country-info {
+display:flex
+}
+.country-list {
+list-style: none;
+ 
+}
+.title {
+  font-size: 20px;
+  font-weight: 400;
+
+}
